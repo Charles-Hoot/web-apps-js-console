@@ -4,8 +4,8 @@
 
 ## Links
 
-- [Demo](https://profcase.github.io/js-console/)
-- [Source](https://github.com/profcase/js-console)
+- [Github Pages Demo](https://charles-hoot.github.io/web-apps-js-console/)
+- [Repo](https://github.com/charles-hoot/web-apps-js-console)
 
 ## Requirements
 
